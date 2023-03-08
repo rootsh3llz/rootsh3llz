@@ -1,5 +1,5 @@
 # 💫 About Me:
-┌──(rootsh3llz㉿github)-[~]<br>└─$ whoami<br>Marco Eros Della Rocca<br><br>┌──(rootsh3llz㉿github)-[~]<br>└─$ summary<br>SOC - Junior Cyber Security Specialist & Developer<br><br>┌──(rootsh3llz㉿github)-[~]<br>└─$ workat<br>[Digimetrica](https://www.linkedin.com/company/digimetrica)<br><br>┌──(rootsh3llz㉿github)-[~]<br>└─$ my_projects<br>[Inspector. Development](https://github.com/inspector-development)
+┌──(rootsh3llz@github)-[~]<br>└─$ whoami<br>Marco Eros Della Rocca<br><br>┌──(rootsh3llz@github)-[~]<br>└─$ summary<br>SOC - Junior Cyber Security Specialist & Developer<br><br>┌──(rootsh3llz@github)-[~]<br>└─$ workat<br>[Digimetrica](https://www.linkedin.com/company/digimetrica)<br><br>┌──(rootsh3llz@github)-[~]<br>└─$ my_projects<br>[Inspector. Development](https://github.com/inspector-development)
 
 
 ## 🌐 Socials:
