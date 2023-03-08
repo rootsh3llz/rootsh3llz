@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=rootsh3ll&icon=5&color=0)](https://visitcount.itsvg.in)
+---
 ┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ whoami<br>Marco Eros Della Rocca<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ summary<br>SOC - Junior Cyber Security Specialist & Developer<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ workat<br>[Digimetrica](https://www.linkedin.com/company/digimetrica)<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ my_projects<br>[Inspector. Development](https://github.com/inspector-development)
 
 ┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ ./social.sh<br>
@@ -11,6 +14,3 @@
 
 ┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ ./gen_quotes.sh<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=rootsh3ll&icon=5&color=0)](https://visitcount.itsvg.in)
