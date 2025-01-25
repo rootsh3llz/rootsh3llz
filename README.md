@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=rootsh3ll&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
-┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ whoami<br>Marco Eros Della Rocca<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ summary<br>SOC - Junior Cyber Security Specialist & Developer<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ workat<br>[Digimetrica](https://www.linkedin.com/company/digimetrica)<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ projects<br>[Inspector. Development](https://github.com/inspector-development)
+┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ whoami<br>Marco Eros Della Rocca<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ summary<br>Cyber Security Specialist & Developer<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ workat<br>[Digimetrica](https://www.linkedin.com/company/digimetrica)<br><br>┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ projects<br>[Inspector. Development](https://github.com/inspector-development)
 
 ┌──(rootsh3llz@github)-\[/home/rootsh3llz\]<br>└─$ social<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marco.eros.dr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
